@@ -1,3 +1,7 @@
 .teal-text {
   color: teal;
 }
+
+.round-image {
+  border-radius: 50px;
+}
